@@ -1,0 +1,31 @@
+{
+  "urlParameters": {
+    "player": [
+      "wl",
+      "recentMatches",
+      "matches",
+      "heroes",
+      "peers",
+      "pros",
+      "totals",
+      "counts",
+      "histograms",
+      "wardmap",
+      "wordcloud",
+      "ratings",
+      "rankings",
+      "refresh"
+    ],
+    "heroes": [
+      "matches",
+      "matchups",
+      "durations",
+      "players"
+    ],
+    "teams": [
+      "matches",
+      "players",
+      "heroes"
+    ]
+  }
+}
