@@ -11,6 +11,6 @@ Brincando com a API do dotinha
 # OpenDota API
 
 ## Documentação
-[Documentação](https://docs.opendota.com/)
-[Propriedades dos objetos](https://github.com/odota/ui/blob/master/src/lang/en-US.json)
-[Schema do banco](https://github.com/odota/core/blob/master/sql/create_tables.sql)
+- [Documentação](https://docs.opendota.com/)
+- [Propriedades dos objetos](https://github.com/odota/ui/blob/master/src/lang/en-US.json)
+- [Schema do banco](https://github.com/odota/core/blob/master/sql/create_tables.sql)
